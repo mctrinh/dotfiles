@@ -3,6 +3,10 @@
 
 " COLORS {{{
 syntax enable			        " enable syntax processing
+set t_Co=256
+
+set background=dark
+colorscheme PaperColor  " manually place PaperColor.vim file into ~/.vim/colors (https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim)
 "}}}
 
 
